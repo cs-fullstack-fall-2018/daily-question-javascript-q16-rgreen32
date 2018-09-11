@@ -27,7 +27,7 @@ The body of the HTML page contains the following script:
 ```
 * What will be displayed in the console when this page is previewed in the browser?
 
-1) 
+1) X
 INFO: Could not process the file; LOGGED ON Fri Nov 03 2018 20:19:53 GMT-0400 (Eastern Standard Time)
 
 Could not call the function to log the info! 
